@@ -1,6 +1,6 @@
 # Agentic Document Q&A
 
-Based on [yashprogrammer’s LangGraph-RAG](https://github.com/yashprogrammer/LangGraph-RAG), shared with the author's permission.
+
 
 A conversational AI agent built with **LangGraph** that combines retrieval-augmented generation (RAG) with tool use. The agent can answer questions from a local knowledge base and perform arithmetic — all with a live Streamlit UI showing the tool call trace.
 
