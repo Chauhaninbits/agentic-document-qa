@@ -63,8 +63,8 @@ User prompt
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <repo-url>
-cd "LangGraph RAG"
+git clone https://github.com/Chauhaninbits/agentic-document-qa.git
+cd agentic-document-qa
 uv sync
 ```
 

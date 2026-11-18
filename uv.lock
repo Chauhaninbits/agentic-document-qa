@@ -937,7 +937,7 @@ wheels = [
 ]
 
 [[package]]
-name = "langgraph-rag"
+name = "agentic-document-qa"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

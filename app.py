@@ -1,5 +1,5 @@
 """
-LangGraph RAG Demo — Streamlit UI
+Agentic Document Q&A — Streamlit UI
 Run: streamlit run app.py
 """
 import os
@@ -17,12 +17,12 @@ from agent import MessagesState, agent
 # ---------------------------------------------------------------------------
 
 st.set_page_config(
-    page_title="LangGraph RAG Demo",
+    page_title="Agentic Document Q&A",
     page_icon="🤖",
     layout="wide",
 )
 
-st.title("🤖 LangGraph RAG Demo")
+st.title("🤖 Agentic Document Q&A")
 st.caption("Calculator agent + knowledge base search — powered by LangGraph + Claude")
 
 # ---------------------------------------------------------------------------
